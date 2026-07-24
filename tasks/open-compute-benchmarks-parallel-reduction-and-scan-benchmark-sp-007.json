@@ -1,0 +1,30 @@
+{
+  "id": "open-compute-benchmarks-parallel-reduction-and-scan-benchmark-sp-007",
+  "title": "Parallel reduction and scan benchmark spec",
+  "project": "open-compute-benchmarks",
+  "type": "code",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "software",
+    "hpc",
+    "open-science"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Parallel reduction and scan is a common, comparable kernel worth a reproducible benchmark.",
+  "objective": "Define a parallel reduction and scan benchmark: input sizes, correctness check, run steps, and a reference result following the methodology.",
+  "acceptanceCriteria": [
+    "Specifies input sizes, a correctness check, and run steps",
+    "Follows the methodology's reporting standard",
+    "Includes one reference result with environment disclosed",
+    "MIT header"
+  ],
+  "output": "deliverables/open-compute-benchmarks-parallel-reduction-and-scan-benchmark-sp-007.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

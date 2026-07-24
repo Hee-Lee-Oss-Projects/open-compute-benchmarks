@@ -16,14 +16,14 @@
   "tokenEstimate": "medium",
   "status": "open",
   "context": "Fair comparison needs a shared, documented methodology first.",
-  "objective": "Write a methodology doc: how benchmarks are defined, measured, warmed up, repeated, and reported (units, environment disclosure, variance).",
+  "objective": "Write a methodology doc: how benchmarks are measured, warmed up, repeated, and reported (units, environment disclosure, variance).",
   "acceptanceCriteria": [
-    "Defines measurement, repetition, warm-up, and reporting rules",
+    "Defines measurement, repetition, warm-up, and reporting",
     "Specifies required environment disclosure",
     "Includes a results-table template",
     "MIT header"
   ],
-  "output": "deliverables/methodology-001.md",
+  "output": "deliverables/open-compute-benchmarks-methodology-001.md",
   "requestor": "TO BE SECURED",
   "verifiedNeed": false,
   "outputLicense": "MIT"

@@ -1,0 +1,30 @@
+{
+  "id": "open-compute-benchmarks-sparse-matrix-vector-product-spmv-benchm-008",
+  "title": "Sparse matrix-vector product (SpMV) benchmark spec",
+  "project": "open-compute-benchmarks",
+  "type": "code",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "software",
+    "hpc",
+    "open-science"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "large",
+  "status": "open",
+  "context": "Sparse matrix-vector product (SpMV) is a common, comparable kernel worth a reproducible benchmark.",
+  "objective": "Define a sparse matrix-vector product (spmv) benchmark: input sizes, correctness check, run steps, and a reference result following the methodology.",
+  "acceptanceCriteria": [
+    "Specifies input sizes, a correctness check, and run steps",
+    "Follows the methodology's reporting standard",
+    "Includes one reference result with environment disclosed",
+    "MIT header"
+  ],
+  "output": "deliverables/open-compute-benchmarks-sparse-matrix-vector-product-spmv-benchm-008.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}
