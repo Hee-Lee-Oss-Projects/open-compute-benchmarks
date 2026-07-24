@@ -1,0 +1,30 @@
+{
+  "id": "open-compute-benchmarks-bignum-multiply-002",
+  "title": "Big-integer multiplication benchmark spec",
+  "project": "open-compute-benchmarks",
+  "type": "code",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "software",
+    "hpc",
+    "open-science"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Big-number multiply is a common, comparable kernel.",
+  "objective": "Define a big-integer multiplication benchmark: input sizes, correctness check, run instructions, and a reference result following the methodology.",
+  "acceptanceCriteria": [
+    "Specifies input sizes, a correctness check, and run steps",
+    "Follows the methodology doc's reporting standard",
+    "Includes one reference result with environment disclosed",
+    "MIT header"
+  ],
+  "output": "deliverables/bignum-multiply-002.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

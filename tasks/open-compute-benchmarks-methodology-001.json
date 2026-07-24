@@ -1,0 +1,30 @@
+{
+  "id": "open-compute-benchmarks-methodology-001",
+  "title": "Benchmark methodology and reporting standard",
+  "project": "open-compute-benchmarks",
+  "type": "code",
+  "lane": "donated",
+  "priority": "high",
+  "domain": [
+    "software",
+    "hpc",
+    "open-science"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Fair comparison needs a shared, documented methodology first.",
+  "objective": "Write a methodology doc: how benchmarks are defined, measured, warmed up, repeated, and reported (units, environment disclosure, variance).",
+  "acceptanceCriteria": [
+    "Defines measurement, repetition, warm-up, and reporting rules",
+    "Specifies required environment disclosure",
+    "Includes a results-table template",
+    "MIT header"
+  ],
+  "output": "deliverables/methodology-001.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "open-compute-benchmarks-matrix-multiply-003",
+  "title": "Dense matrix multiplication benchmark spec",
+  "project": "open-compute-benchmarks",
+  "type": "code",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "software",
+    "hpc",
+    "open-science"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Dense GEMM is a canonical HPC kernel.",
+  "objective": "Define a dense matrix-multiplication benchmark (sizes, correctness tolerance, run steps, reference result) per the methodology.",
+  "acceptanceCriteria": [
+    "Specifies sizes, tolerance, and run steps",
+    "Follows the reporting standard",
+    "Includes a reference result",
+    "MIT header"
+  ],
+  "output": "deliverables/matrix-multiply-003.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}
